@@ -1,0 +1,13 @@
+{
+  "name": "js-clone",
+  "version": "1.0.0",
+  "description": "JavaScript clone object example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["javascript", "clone", "spread"],
+  "author": "Mitch Allen",
+  "license": "MIT"
+}
